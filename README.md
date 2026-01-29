@@ -165,4 +165,4 @@ For any queries or support, please contact [thien2411-vn](https://github.com/thi
 
 - Special thanks to the open-source community and contributors of various Arduino libraries used in this project.
 - Video credit:
-         -[![Demo Video](https://img.youtube.com/vi/WQs1M3PLUOs/0.jpg)](https://youtu.be/WQs1M3PLUOs)
+-           [![Demo Video](https://img.youtube.com/vi/WQs1M3PLUOs/0.jpg)](https://youtu.be/WQs1M3PLUOs)
