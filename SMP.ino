@@ -169,7 +169,7 @@ bool waitForPass(uint8_t pin, unsigned long timeout = 15000) {
       unsigned long start2 = millis();
       while (millis() - start2 < timeout) {
         if (digitalRead(pin) == idleState) {
-          return true; // hoàn tất: đã đổi trạng thái rồi trả về trạng thái ban đầu -> coi là đã qua
+          return true; 
         }
         delay(10);
       }
@@ -269,12 +269,12 @@ void setup() {
   servoIn.write(0);
   servoOut.write(0);
   servoDispense.write(0);
-  // Input/Output
+
   pinMode(BUTTON_PIN, INPUT_PULLUP);
   pinMode(LED_PIN, OUTPUT);
   pinMode(BUZZER_PIN, OUTPUT);
   digitalWrite(LED_PIN, LOW);
-  // Cấu hình cảm biến IR:
+
   pinMode(IR_IN_PIN, INPUT_PULLUP);
   pinMode(IR_OUT_PIN, INPUT); 
   EEPROM.begin(EEPROM_SIZE);
