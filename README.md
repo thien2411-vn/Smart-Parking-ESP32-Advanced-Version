@@ -1,4 +1,4 @@
-# SmartPark Manager - An Advanced Smart Parking Management System
+# Smart Parking ESP32 Advanced Version
 
 [![Demo Video](https://img.youtube.com/vi/WQs1M3PLUOs/0.jpg)](https://youtu.be/WQs1M3PLUOs)
 
