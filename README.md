@@ -117,7 +117,6 @@ Ensure the following libraries are installed:
 3. **Logs in Google Sheets**:
    - View real-time event logs in the linked Google Sheets document.
   <img width="1566" height="785" alt="image" src="https://github.com/user-attachments/assets/a307d86c-74dd-48cd-b481-2105394277a1" />
----
 
 ## ⚙️ Pin Configurations
 
