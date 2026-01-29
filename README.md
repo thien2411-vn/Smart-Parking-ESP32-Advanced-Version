@@ -1,12 +1,8 @@
 # Smart Parking ESP32 Advanced Version
 
-[![Demo Video](https://img.youtube.com/vi/WQs1M3PLUOs/0.jpg)](https://youtu.be/WQs1M3PLUOs)
-
 ## 🌟 Introduction
 
-Welcome to **SmartPark Manager**, a cutting-edge smart parking management system designed using the ESP32 microcontroller. This intelligent system streamlines vehicle entry, exit, and payment processes using RFID technology, real-time tracking, and cloud-based logging. It is highly reliable, easy to deploy, and scalable for modern smart parking applications.
-
-🎥 **Watch the demo here**: [Demo Video](https://youtu.be/WQs1M3PLUOs)
+Welcome to **Smart Parking ESP32 Advanced Version**, a cutting-edge smart parking management system designed using the ESP32 microcontroller. This intelligent system streamlines vehicle entry, exit, and payment processes using RFID technology, real-time tracking, and cloud-based logging. It is highly reliable, easy to deploy, and scalable for modern smart parking applications.
 
 ---
 
@@ -102,7 +98,7 @@ Ensure the following libraries are installed:
   - Connect to WiFi (use a hotspot if no router is available).
   - Start managing the parking flow.
 
-🎉 Your **SmartPark Manager** is now live!
+🎉 Your **Project** is now live!
 
 ---
 
@@ -120,8 +116,6 @@ Ensure the following libraries are installed:
 
 3. **Logs in Google Sheets**:
    - View real-time event logs in the linked Google Sheets document.
-
-For a visual walkthrough, check out the [demo video](https://youtu.be/WQs1M3PLUOs).
 
 ---
 
@@ -161,12 +155,6 @@ For a visual walkthrough, check out the [demo video](https://youtu.be/WQs1M3PLUO
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## 📞 Support
 
 For any queries or support, please contact [thien2411-vn](https://github.com/thien2411-vn).
@@ -176,6 +164,4 @@ For any queries or support, please contact [thien2411-vn](https://github.com/thi
 ## 🌐 Acknowledgements
 
 - Special thanks to the open-source community and contributors of various Arduino libraries used in this project.
-- Video credit: [Demo Video](https://youtu.be/WQs1M3PLUOs).
-
-**SmartPark Manager - Making Parking Smarter!** 🚗📲
+- Video credit: [Demo Video](https://img.youtube.com/vi/WQs1M3PLUOs/0.jpg)](https://youtu.be/WQs1M3PLUOs).
