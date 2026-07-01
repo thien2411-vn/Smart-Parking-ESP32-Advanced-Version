@@ -6,7 +6,7 @@ Welcome to **Smart Parking ESP32 Advanced Version**, a cutting-edge smart parkin
 
 ---
 
-## 🛠 Features
+##  Features
 
 - **Entry Management**:
   - Dispenses RFID cards for new vehicles entering.
