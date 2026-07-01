@@ -1,6 +1,6 @@
 # Smart Parking ESP32 Advanced Version
 
-## 🌟 Introduction
+##  Introduction
 
 Welcome to **Smart Parking ESP32 Advanced Version**, a cutting-edge smart parking management system designed using the ESP32 microcontroller. This intelligent system streamlines vehicle entry, exit, and payment processes using RFID technology, real-time tracking, and cloud-based logging. It is highly reliable, easy to deploy, and scalable for modern smart parking applications.
 
@@ -31,7 +31,7 @@ Welcome to **Smart Parking ESP32 Advanced Version**, a cutting-edge smart parkin
 
 ---
 
-## 🔧 Hardware Components
+##  Hardware Components
 
 ### Mandatory:
 - **ESP32**: Central controller with WiFi capabilities.
@@ -49,7 +49,7 @@ Welcome to **Smart Parking ESP32 Advanced Version**, a cutting-edge smart parkin
 
 ---
 
-## 📋 Software Requirements
+##  Software Requirements
 
 ### 1. **Programming Environment**
 - [Arduino IDE](https://www.arduino.cc/en/software) (recommended)
@@ -68,7 +68,7 @@ Ensure the following libraries are installed:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. **Hardware Setup**
 - Connect the hardware components as per the pin configuration provided in the source code.
@@ -98,11 +98,11 @@ Ensure the following libraries are installed:
   - Connect to WiFi (use a hotspot if no router is available).
   - Start managing the parking flow.
 
-🎉 Your **Project** is now live!
+ Your **Project** is now live!
 
 ---
 
-## 📊 Demonstration Flow
+##  Demonstration Flow
 
 1. **Vehicle Entry**:
    - Press the button to request an RFID card. 
@@ -118,7 +118,7 @@ Ensure the following libraries are installed:
    - View real-time event logs in the linked Google Sheets document.
   <img width="1566" height="785" alt="image" src="https://github.com/user-attachments/assets/a307d86c-74dd-48cd-b481-2105394277a1" />
 
-## ⚙️ Pin Configurations
+##  Pin Configurations
 
 | **Peripheral**       | **Pin**        |
 |-----------------------|----------------|
@@ -136,7 +136,7 @@ Ensure the following libraries are installed:
 
 ---
 
-## 💡 Future Enhancements
+##  Future Enhancements
 
 - **Cloud Dashboard**:
   - Integrate an online dashboard for viewing parking statistics.
@@ -147,20 +147,20 @@ Ensure the following libraries are installed:
 
 ---
 
-## 🤝 Contribution
+##  Contribution
 
 - Feel free to fork this repository and contribute improvements via pull requests.
 - Report issues or suggest features via the [Issues tab](https://github.com/thien2411-vn/Smart-Parking-ESP32-Advanced-Version/issues).
 
 ---
 
-## 📞 Support
+##  Support
 
 For any queries or support, please contact [thien2411-vn](https://github.com/thien2411-vn).
 
 ---
 
-## 🌐 Acknowledgements
+##  Acknowledgements
 
 - Special thanks to the open-source community and contributors of various Arduino libraries used in this project.
 - Video credit:
